@@ -23,7 +23,7 @@ Or install it yourself as:
 ## Usage
 require "all_countries"
 
-List all Countrines
+List all countries with codes
 
 	AllCountries.all
 
