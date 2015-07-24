@@ -21,6 +21,11 @@ Or install it yourself as:
     $ gem install all_countries
 
 ## Usage
+require "all_countries"
+
+List all Countrines
+
+	AllCountries.all
 
 TODO: Write usage instructions here
 
