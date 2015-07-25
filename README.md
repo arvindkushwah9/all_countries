@@ -25,9 +25,11 @@ require "all_countries"
 
 List all countries with codes
 
-	AllCountries.all
+	AllCountries::Arvind.all
 
-TODO: Write usage instructions here
+List all states of a country
+
+	AllCountries::Arvind.states("Country Code")
 
 ## Development
 
